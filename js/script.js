@@ -54,9 +54,9 @@ function validateForm() {
   window.addEventListener("DOMContentLoaded", function () {
     var slideIndex = 0;
     var slides = [
-      "../assets/hero_image/hero3.jpg",
-      "../assets/hero_image/hero2.jpg",
-      "../assets/hero_image/hero4.jpg",
+      "assets/hero_image/hero3.jpg",
+      "assets/hero_image/hero2.jpg",
+      "assets/hero_image/hero4.jpg",
     ];
   
     var imageSlide = document.getElementById("image-slide");
